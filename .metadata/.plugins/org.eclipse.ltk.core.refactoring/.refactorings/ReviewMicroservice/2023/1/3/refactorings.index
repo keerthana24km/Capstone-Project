@@ -1,0 +1,31 @@
+1673974114044	Rename package 'com.hcl.microservice'
+1673983095890	Rename compilation unit 'UserMicroservicesT7Application.java'
+1673983183154	Rename type 'AdminServiceImp'
+1673983194703	Rename type 'UserServiceImp'
+1674008171609	Rename package 'com.hcl.microservice.dto'
+1674008189286	Rename package 'com.hcl.microservice.entities'
+1674008209735	Rename package 'com.hcl.microservice.exceptions'
+1674008229159	Rename package 'com.hcl.microservice.repositories'
+1674008248023	Rename package 'com.hcl.microservice.restcontrollers'
+1674008263578	Rename package 'com.hcl.microservice.services'
+1674008282431	Rename package 'com.hcl.microservice.ui'
+1674008973411	Rename type 'Admin'
+1674009212928	Rename type 'AdminDTO'
+1674009332389	Rename type 'AdminNotFoundException'
+1674009345522	Delete element
+1674009373164	Rename type 'AdminRepository'
+1674009413093	Rename type 'IAdminService'
+1674009527007	Rename type 'AdminService'
+1674009666328	Rename type 'AdminRestController'
+1674009869873	Delete element
+1674012778407	Copy file
+1674012797197	Delete element
+1674012802454	Copy file
+1674012814599	Delete element
+1674012819191	Copy file
+1674012826273	Copy file
+1674012833751	Delete element
+1674012838765	Copy file
+1674012848092	Delete element
+1674012850768	Delete element
+1674012856840	Copy files

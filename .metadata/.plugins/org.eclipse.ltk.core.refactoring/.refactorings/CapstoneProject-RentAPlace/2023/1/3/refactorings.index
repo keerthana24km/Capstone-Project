@@ -1,0 +1,33 @@
+1673977702804	Rename type 'OwnerRepository'
+1673977711136	Rename type 'UserRepository'
+1673980842897	Rename type 'IReservedInterface'
+1674019308898	Copy compilation unit
+1674019338616	Delete element
+1674019387880	Copy package
+1674019398531	Delete element
+1674019506169	Rename package 'com.hcl.rentaplace'
+1674019530133	Move compilation units
+1674019552026	Move compilation units
+1674019569500	Move compilation units
+1674019585261	Move compilation units
+1674019603899	Move compilation units
+1674019619581	Delete elements
+1674021564933	Rename method 'findOwnerByNameAndPassword'
+1674027432705	Rename local variable 's'
+1674096439164	Rename type 'IPropertyRepository'
+1674096566443	Rename type 'IReservedRepository'
+1674096609437	Rename type 'IPropertyReservedOpsRepository'
+1674099330174	Rename method 'deleteById'
+1674099854514	Rename type 'IPropertyService'
+1674099869298	Rename type 'PropertyService'
+1674099936731	Rename type 'PropertyController'
+1674100665286	Rename method 'getemail'
+1674100693213	Rename method 'setemail'
+1674100754653	Rename method 'getuserPassword'
+1674100768710	Rename method 'setuserPassword'
+1674101080640	Rename field 'its'
+1674101106542	Rename field 'service'
+1674102515473	Rename type 'IReservedService'
+1674102542062	Rename type 'ReservedService'
+1674102558071	Rename type 'ReservedController'
+1674116869096	Rename field 'recepient'
